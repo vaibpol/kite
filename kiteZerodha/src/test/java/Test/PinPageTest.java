@@ -35,4 +35,12 @@ public class PinPageTest {
 		zerodhaPinPage.enterPin (pin);
 		zerodhaPinPage.ClickOnContinue();
 }
+	
+	
+	@Test
+	public void test()  {
+		System.out.println("Thanks");
+		
+	}
+	
 }
